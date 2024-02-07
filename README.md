@@ -1,4 +1,4 @@
 # _Known Coding Languages_
 - Java
-## _Coding that Will be Learned_
+## _Coding Languages that Will be Learned_
 - Python, C++, C#
